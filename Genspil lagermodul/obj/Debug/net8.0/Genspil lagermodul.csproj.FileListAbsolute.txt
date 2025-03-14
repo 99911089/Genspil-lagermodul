@@ -1,0 +1,14 @@
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\bin\Debug\net8.0\Genspil lagermodul.exe
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\bin\Debug\net8.0\Genspil lagermodul.deps.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\bin\Debug\net8.0\Genspil lagermodul.runtimeconfig.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\bin\Debug\net8.0\Genspil lagermodul.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\bin\Debug\net8.0\Genspil lagermodul.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.AssemblyInfoInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.AssemblyInfo.cs
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.csproj.CoreCompileInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\refint\Genspil lagermodul.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.genruntimeconfig.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\ref\Genspil lagermodul.dll
