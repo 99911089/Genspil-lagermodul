@@ -12,3 +12,4 @@ C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lager
 C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.pdb
 C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.genruntimeconfig.cache
 C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\ref\Genspil lagermodul.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Genspil lagermodul\Genspil lagermodul\obj\Debug\net8.0\Genspil lagermodul.sourcelink.json
