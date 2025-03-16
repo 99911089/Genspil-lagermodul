@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Genspil lagermodul")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+297f14832534c3b8c2d727d8679bb8913b7ab31c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea12407c9d1c3dbe6f7417806b0a6d7eddb4200")]
 [assembly: System.Reflection.AssemblyProductAttribute("Genspil lagermodul")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Genspil lagermodul")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
